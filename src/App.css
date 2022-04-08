@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: aqua;
+}
+.Home{
+  text-align: center;
+}
+
+h1{
+  font-size: 100px;
+  border-bottom: solid;
+  border-width: 50%;
+  /* padding-left: 30%; */
+}
+
+
+
+button{
+  margin: 20px;
+  padding: 5px;
+  border-radius: 30px;
+  background-color: antiquewhite;
+  border-style: initial;
+  border: solid 1px;
+}
+
+.text{
+  width: 30%;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.isi{
+  margin: 10px 10px 3px 40px;
+}
